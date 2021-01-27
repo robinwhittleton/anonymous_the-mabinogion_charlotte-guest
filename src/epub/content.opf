@@ -50,7 +50,7 @@
 		<dc:source>https://archive.org/details/mabinogion01schr</dc:source>
 		<dc:source>https://archive.org/details/mabinogion02schr</dc:source>
 		<dc:source>https://archive.org/details/mabinogion03schr</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The introductions to vols 2 and 3 have been removed.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mabinogion</meta>
