@@ -94,14 +94,46 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/branwen-the-daughter-of-llyr.xhtml" id="branwen-the-daughter-of-llyr.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/geraint-the-son-of-erbin.xhtml" id="geraint-the-son-of-erbin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/here-is-the-story-of-lludd-and-llevelys.xhtml" id="here-is-the-story-of-lludd-and-llevelys.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/kilhwch-and-olwen.xhtml" id="kilhwch-and-olwen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/manawyddan-the-son-of-llyr.xhtml" id="manawyddan-the-son-of-llyr.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/math-the-son-of-mathonwy.xhtml" id="math-the-son-of-mathonwy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/peredur-the-son-of-evrawc.xhtml" id="peredur-the-son-of-evrawc.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pwyll-prince-of-dyved.xhtml" id="pwyll-prince-of-dyved.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/taliesin.xhtml" id="taliesin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dream-of-maxen-wledig.xhtml" id="the-dream-of-maxen-wledig.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dream-of-rhonabwy.xhtml" id="the-dream-of-rhonabwy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lady-of-the-fountain.xhtml" id="the-lady-of-the-fountain.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-lady-of-the-fountain.xhtml"/>
+		<itemref idref="peredur-the-son-of-evrawc.xhtml"/>
+		<itemref idref="the-dream-of-rhonabwy.xhtml"/>
+		<itemref idref="geraint-the-son-of-erbin.xhtml"/>
+		<itemref idref="kilhwch-and-olwen.xhtml"/>
+		<itemref idref="the-dream-of-maxen-wledig.xhtml"/>
+		<itemref idref="pwyll-prince-of-dyved.xhtml"/>
+		<itemref idref="branwen-the-daughter-of-llyr.xhtml"/>
+		<itemref idref="manawyddan-the-son-of-llyr.xhtml"/>
+		<itemref idref="math-the-son-of-mathonwy.xhtml"/>
+		<itemref idref="here-is-the-story-of-lludd-and-llevelys.xhtml"/>
+		<itemref idref="taliesin.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
