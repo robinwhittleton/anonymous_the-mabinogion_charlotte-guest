@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="kilhwch-and-olwen.xhtml">
+		<ignore>
+			<code>m-045</code>
+			<reason>Titlecase is mistitling the Welsh spelling here.</reason>
+		</ignore>
+	</file>
+	<file path="kilhwch-and-olwen.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Titlecase is mistitling the Welsh spelling here.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
